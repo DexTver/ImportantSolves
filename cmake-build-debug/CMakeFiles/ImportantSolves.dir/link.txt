@@ -1,0 +1,3 @@
+C:\Users\Ivan\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\ImportantSolves.dir/objects.a
+C:\Users\Ivan\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\ar.exe qc CMakeFiles\ImportantSolves.dir/objects.a @CMakeFiles\ImportantSolves.dir\objects1.rsp
+C:\Users\Ivan\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ImportantSolves.dir/objects.a -Wl,--no-whole-archive -o ImportantSolves.exe -Wl,--out-implib,libImportantSolves.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ImportantSolves.dir\linklibs.rsp
