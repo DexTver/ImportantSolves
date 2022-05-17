@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ImportantSolves.dir/CircleAndLine.cpp.obj"
+  "CMakeFiles/ImportantSolves.dir/CircleAndLine.cpp.obj.d"
   "CMakeFiles/ImportantSolves.dir/main.cpp.obj"
   "CMakeFiles/ImportantSolves.dir/main.cpp.obj.d"
   "ImportantSolves.exe"
